@@ -1,10 +1,3 @@
-JWT-EMEA.ras.wppgts.com	
-Mail şifre	
-	
-http://10.198.141.6/pages/kisisel/izin-islemleri	
-
-
-
 class Business: 
   def __init__(self, name, franchises):
     self.name = name
